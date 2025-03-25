@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rroruu
 - 👀 I’m interested in learning languages (spoken and code)
 - 🌱 I’m currently learning Mechatronics Engineering and Liberal Arts (Philosophy)
-- 💞️ I’m looking to collaborate on hackathon projects, small start-up intersts, or R&D Work!
+- 💞️ I’m looking to collaborate on hackathon projects, small start-up interests, or R&D Work!
 - 📫 How to reach me: Rory Clements on LinkedIn!
 - 😄 Pronouns: he/him
 
